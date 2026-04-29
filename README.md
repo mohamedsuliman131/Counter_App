@@ -1,7 +1,7 @@
 # 📝 Counter App
 
 A simple and interactive **Counter web application** built using **JavaScript, DOM manipulation, and Bootstrap**.  
-This project helps users increase, decrease, and reset values بسهولة من خلال واجهة نظيفة وسريعة الاستجابة.
+This project allows users to increase, decrease, and reset values easily through a clean, responsive, and modern UI.
 
 ---
 
@@ -27,4 +27,3 @@ This project helps users increase, decrease, and reset values بسهولة من 
 - **Event Listeners** – Handling button actions
 
 ---
-
